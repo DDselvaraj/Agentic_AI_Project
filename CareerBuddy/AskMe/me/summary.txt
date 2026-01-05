@@ -1,0 +1,4 @@
+Hi I'm Devatharshini S. 
+Results-driven Associate Engineer with experience in Java, Python, and React, contributing to enterprise-scale applications.
+Hands-on exposure to Micro-Frontend migration and AI-driven solutions in a fast-paced agile environment.
+Passionate about learning Data Engineering and Machine Learning while building scalable software systems.
